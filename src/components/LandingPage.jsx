@@ -92,7 +92,7 @@ export default function LandingPage({ onNext }) {
 
       <div className={`landing-content ${showText ? 'visible' : ''}`}>
         <p className="landing-kachow">Ka-chow, my love!</p>
-        <h1 className="landing-title">Hey, beautiful</h1>
+        <h1 className="landing-title">Meri Pyari Amanat</h1>
         <p className="landing-sub">Here's a little something just for you...</p>
         <button className="landing-btn" onClick={onNext} type="button">
           Open it
