@@ -5,6 +5,8 @@ export const galleryImages = [
   `${base}invitation/WhatsApp Image 2026-02-27 at 10.46.16.jpeg`,
   `${base}invitation/WhatsApp Image 2026-03-01 at 13.41.39.jpeg`,
   `${base}invitation/333.jpeg`,
+  `${base}invitation/4.jpeg`,
+  `${base}invitation/5.jpeg`,
 ]
 
 export const galleryVideos = [
